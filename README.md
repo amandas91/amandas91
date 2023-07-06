@@ -1,5 +1,8 @@
 # Ing. Amanda Patricia Sabino Castro 
 
+![alt text]([http://url/to/img.png](https://avatars.githubusercontent.com/u/36286519?s=400&u=7df5e48be9a8692f97f0fc4521f897add45b70e5&v=4))
+
+
 ## RESUMEN							               
 
 Especialista en el desarrollo de aplicaciones web con experiencia en Angular y otras tecnologías relacionadas. Amplio conocimiento en la creación de componentes y servicios, integración de APIs en diferentes leguajes de programación y pruebas unitarias.
