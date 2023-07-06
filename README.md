@@ -1,6 +1,6 @@
 # Ing. Amanda Patricia Sabino Castro 
 
-![alt text]([http://url/to/img.png](https://avatars.githubusercontent.com/u/36286519?s=400&u=7df5e48be9a8692f97f0fc4521f897add45b70e5&v=4))
+![alt text]([http://url/to/img.png](https://avatars.githubusercontent.com/u/36286519?s=400&u=7df5e48be9a8692f97f0fc4521f897add45b70e5&v=4)
 
 
 ## RESUMEN							               
