@@ -1,7 +1,7 @@
 # Ing. Amanda Patricia Sabino Castro 
 
-([http://url/to/img.png](https://avatars.githubusercontent.com/u/36286519?s=400&u=7df5e48be9a8692f97f0fc4521f897add45b70e5&v=4)
 
+![Aquí la descripción de la imagen por si no carga]([https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png](https://avatars.githubusercontent.com/u/36286519?s=400&u=7df5e48be9a8692f97f0fc4521f897add45b70e5&v=4))
 
 ## RESUMEN							               
 
