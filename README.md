@@ -11,13 +11,13 @@ Me gusta aprender para estar en constante crecimiento personal y profesional, ap
 
 ## CONOCIMIENTOS INFORMÁTICOS
 
-o	Angular, JQuery, Bootstrap, Foundation.
-o	HTML5, Python, PHP, Laravel, Net, Javascript y TypeScript.
-o	Diseño de bases de datos MYSQL, SQL Server y Oracle
-o	Manejo de sistemas operativos Windows y Linux.
-o	Desarrollo de Web a medida o basándose sobre CMS (WordPress y Drupal).
-o	eForm Builder integrados a (WordPress y Drupal).
-o	Otros: Git, Apache Tomcat.
+1.-	Angular, JQuery, Bootstrap, Foundation.
+2.-	HTML5, Python, PHP, Laravel, Net, Javascript y TypeScript.
+3.-	Diseño de bases de datos MYSQL, SQL Server y Oracle
+4.-	Manejo de sistemas operativos Windows y Linux.
+5.-	Desarrollo de Web a medida o basándose sobre CMS (WordPress y Drupal).
+6.-	eForm Builder integrados a (WordPress y Drupal).
+7.-	Otros: Git, Apache Tomcat.
 
 
 
