@@ -20,21 +20,21 @@ Me gusta aprender para estar en constante crecimiento personal y profesional, ap
 7.	Otros: Git, Apache Tomcat.
 
 
-
 ## CURSOS
 
 1. API RESTful con Laravel.
-2. Curso Básico de Administración de Proyectos.
-3. 	Nodejs.
-4. Angular 12+.
-5. Flutter.
-6. Curso Profesional Adobe XD.
-7. Administración de Proyectos.
-8. Git + GitHub.
+2. Flexbox.
+3. Curso Básico de Administración de Proyectos.
+4. TypeScript.
+5. Nodejs.
+6. Angular 12+.
+7. Flutter.
+8. Curso Profesional Adobe XD.
+9. Git + GitHub.
 
 ## IDIOMAS
 
 Inglés – Nivel Intermedio
 
-![image](https://github.com/amandas91/amandas91/assets/36286519/bdab2d98-3892-4090-b4ab-e9211ce83bd6)
+//![image](https://github.com/amandas91/amandas91/assets/36286519/bdab2d98-3892-4090-b4ab-e9211ce83bd6)
 
