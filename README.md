@@ -35,6 +35,3 @@ Me gusta aprender para estar en constante crecimiento personal y profesional, ap
 ## IDIOMAS
 
 Inglés – Nivel Intermedio
-
-//![image](https://github.com/amandas91/amandas91/assets/36286519/bdab2d98-3892-4090-b4ab-e9211ce83bd6)
-
