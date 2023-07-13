@@ -23,14 +23,14 @@ Me gusta aprender para estar en constante crecimiento personal y profesional, ap
 
 ## CURSOS
 
-1.-	API RESTful con Laravel.
-2.-	Curso Básico de Administración de Proyectos.
-3.-	Nodejs.
-4.-	Angular 12+.
-5.-	Flutter.
-6.-	Curso Profesional Adobe XD.
-7.-	Administración de Proyectos.
-8.-	Git + GitHub.
+1. API RESTful con Laravel.
+2. Curso Básico de Administración de Proyectos.
+3. 	Nodejs.
+4. Angular 12+.
+5. Flutter.
+6. Curso Profesional Adobe XD.
+7. Administración de Proyectos.
+8. Git + GitHub.
 
 ## IDIOMAS
 
