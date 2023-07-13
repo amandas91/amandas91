@@ -23,12 +23,12 @@ o	Otros: Git, Apache Tomcat.
 
 ## CURSOS
 
-o	API RESTful con Laravel
-o	Curso Básico de Administración de Proyectos
-o	Nodejs
-o	Angular 12+
-o	Flutter
-o	Curso Profesional Adobe XD
+1.-	API RESTful con Laravel
+2.-	Curso Básico de Administración de Proyectos
+3.-	Nodejs
+4.-	Angular 12+
+5.-	Flutter
+6.-	Curso Profesional Adobe XD
 
 
 ## IDIOMAS
