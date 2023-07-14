@@ -32,6 +32,6 @@ Me gusta aprender para estar en constante crecimiento personal y profesional, ap
 8. Curso Profesional Adobe XD.
 9. Git + GitHub.
 
-## IDIOMAS
+### IDIOMAS
 
 Inglés – Nivel Intermedio
