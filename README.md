@@ -1,7 +1,5 @@
 # Ing. Amanda Patricia Sabino Castro 
-
-
-## RESUMEN							               
+						               
 
 Especialista en el desarrollo de aplicaciones web con experiencia en Angular y otras tecnologías relacionadas. Amplio conocimiento en la creación de componentes y servicios, integración de APIs en diferentes leguajes de programación y pruebas unitarias.
 
